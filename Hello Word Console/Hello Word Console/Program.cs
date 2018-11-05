@@ -11,6 +11,7 @@ namespace Hello_Word_Console
         static void Main(string[] args)
         {
             Console.WriteLine("Exemplo do uso do GitHub");
+            Console.WriteLine("Exemplo do uso do GitHub 2");
             Console.ReadKey();
         }
     }
